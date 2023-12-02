@@ -1,0 +1,74 @@
+.corporative_blank {
+    font-size: 25px;
+
+
+}
+
+.corporatives {
+    margin: 100px;
+    margin-bottom: 80px;
+}
+
+.logo {
+    text-align: center;
+    padding: 90px 90x;
+}
+
+.logo2 {
+    text-align: center;
+    margin-top: 22px;
+}
+
+.logo_text {
+    font-size: 20px;
+    padding-top: 40px;
+    font-family: 'Gotham Pro';
+
+    text-align: center;
+}
+
+.log_section {
+    display: flex;
+    gap: 100px;
+}
+
+.why_me {
+    margin-top: 100px;
+    font-family: 'Gotham Pro2';
+    font-size: 18px;
+
+}
+
+.nav_item_news {
+    position: relative;
+    padding-bottom: 24px;
+    font-size: 18px;
+    padding-left: 20px;
+}
+
+.nav_news {
+
+
+}
+
+.nav_list_news {
+    text-align: start;
+    margin: 0 auto;
+     max-width: 606px;
+
+
+}
+
+
+.nav_item_news:before {
+    content: '';
+
+    position: absolute;
+    width: 10px;
+    display: block;
+    height: 10px;
+    background-color: #D5621D;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+}
