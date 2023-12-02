@@ -1,0 +1,26 @@
+.footer {
+  padding-top: 100px;
+  padding-bottom: 30px;
+  /* font-family: 'Gotham Pro'; */
+
+
+}
+
+
+.footer_iner {
+  border-top: 0.5px solid rgba(255, 254, 254, 0.61);
+  display: flex;
+  justify-content: space-between;
+}
+
+.foot_txt {
+  /* display: flex; */
+  font-size: 14px;
+  justify-content: space-between;
+color: rgba(255, 254, 254, 0.61);
+  padding-top: 30px;
+}
+
+.ty {
+  align-items: flex-end;
+}

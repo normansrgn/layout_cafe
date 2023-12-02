@@ -1,0 +1,13 @@
+.menu {
+    background-color: white;
+    text-transform: uppercase;
+    text-align: center;
+    color: black;
+    width: 244px;
+    height: 38px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
