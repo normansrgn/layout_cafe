@@ -27,6 +27,7 @@ body {
   display: flex;
   gap: 30px;
   justify-content: center;
+  padding-top: 10px;
 }
 
 .navigation__item {}
